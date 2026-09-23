@@ -3,6 +3,6 @@
   "date": "2026-09-24",
   "notes": "소나다 v1.3 패치: 프로그램과 매뉴얼을 갱신합니다. 기존 Full 설치본이 필요합니다.",
   "url": "https://github.com/heewonchun-del/sonada-update/releases/download/v1.3/sonada_setup.exe",
-  "sha256": "de816f6814fc5303d122274fee89ace5330214b0a5fe979559ccd1aac0aad434",
+  "sha256": "1e4135c707b1db1c3b04981bda730db1729fc29308e1be2e8a112bf6373192e2",
   "reboot_required": false
 }

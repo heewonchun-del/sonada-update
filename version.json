@@ -1,6 +1,7 @@
 {
   "version": "1.6.0",
   "date": "2026-11-02",
+  "rev": "1",
   "notes": "Sonada 1.6.0 — Score entry is expanded. Read and edit notes with the arrows, set octave with X, lyrics with L, reverse key and clef with Shift+K and Shift+Q, grand staff, fingering, string, bow, rehearsal and rit, pickup bars, and Open MusicXML. Z and Ctrl+E marks do not change sounding pitch or duration.",
   "notes_ko": "소나다 1.6.0 — 악보 입력을 보강했습니다. 넣은 음을 화살표로 읽고 고치고, X 옥타브, L 가사, Shift+K·Shift+Q 조표·음자리표 반대, 큰보표, 손가락·줄·활, 리허설·rit, 못갖춘마디, MusicXML 열기가 들어갑니다. Z와 Ctrl+E 표시는 실제 음높이·길이를 바꾸지 않습니다.",
   "notes_en": "Sonada 1.6.0 — Score entry is expanded. Read and edit notes with the arrows, set octave with X, lyrics with L, reverse key and clef with Shift+K and Shift+Q, grand staff, fingering, string, bow, rehearsal and rit, pickup bars, and Open MusicXML. Z and Ctrl+E marks do not change sounding pitch or duration.",
